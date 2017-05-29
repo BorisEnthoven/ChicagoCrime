@@ -29,14 +29,9 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding>
-                <marker date="1496071217821" expanded="true" signature="25075:25118" ph="..." />
-                <marker date="1496071217821" expanded="true" signature="25075:25136" ph="..." />
-                <marker date="1496071217821" expanded="true" signature="25075:25149" ph="..." />
-                <marker date="1496071217821" expanded="true" signature="25075:25164" ph="..." />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -303,11 +298,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496070321458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Master: workspace">
+      <created>1496071241465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496071241465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404000" />
+    <option name="totallyTimeSpent" value="426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -355,7 +357,8 @@
     </ignored-roots>
     <MESSAGE value="init?" />
     <MESSAGE value="Boris:&#10;workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Boris:&#10;workspace" />
+    <MESSAGE value="Master: workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Master: workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -375,19 +378,6 @@
         <state relative-caret-position="187">
           <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <marker date="1496071217821" expanded="true" signature="25075:25118" ph="..." />
-            <marker date="1496071217821" expanded="true" signature="25075:25136" ph="..." />
-            <marker date="1496071217821" expanded="true" signature="25075:25149" ph="..." />
-            <marker date="1496071217821" expanded="true" signature="25075:25164" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,6 +417,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding />
         </state>
       </provider>
